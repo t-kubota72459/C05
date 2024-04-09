@@ -276,7 +276,7 @@ Google Meet のリンクは画面共有や配信のためのリンクです。
 
 - 学校にきたら一日一度は vt-school.hiroshima.jp あてメールをチェックする
 - 自分のスマホで受け取れるように転送設定する
-- Android なひとは、vt-school.hiroshima.jp アカウントもスマホに追加する
+- Android なひとは、vt-school.hiroshima.jp アカウントもGoogle アカウントとしてスマホに追加する
 - iPhone なひとは、Gmail アプリをインストールする
 
 少なくともどれか一つは実施して「連絡を知りませんでした」みたいなことにならないようにしてくださいね。
